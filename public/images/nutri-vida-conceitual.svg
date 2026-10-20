@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="132" viewBox="0 0 520 132" fill="none">
+  <g transform="translate(3 4)">
+    <circle cx="63" cy="64" r="56" fill="#E9EEE5"/>
+    <path d="M62.5 104C63 77 65 51 66 25" stroke="#183D31" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M65 53C48 49 39 38 39 26C53 28 63 37 65 53Z" fill="#597B65"/>
+    <path d="M65 70C81 64 89 52 88 40C75 43 66 54 65 70Z" fill="#809575"/>
+    <path d="M63 88C48 83 40 73 41 62C53 65 62 75 63 88Z" fill="#809575"/>
+    <path d="M65 53L51 35M65 70L81 47M63 88L49 70" stroke="#E9EEE5" stroke-width="1.7" stroke-linecap="round"/>
+    <path d="M47 102C54 98 70 98 78 102" stroke="#AD7B5C" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="137" y="85" fill="#183D31" font-family="Georgia, 'Times New Roman', serif" font-size="48" letter-spacing="-.9">Nutri Vida</text>
+</svg>
